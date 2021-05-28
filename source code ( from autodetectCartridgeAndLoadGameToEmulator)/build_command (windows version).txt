@@ -1,0 +1,1 @@
+cl setup.c gbxcart_rw_console_v1.35.c rs232/rs232.c /link /out:test.exe
