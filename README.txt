@@ -25,9 +25,10 @@ SO I DO NOT MAKE SURE THAT THIS SOFTWARE COULD BE 100% WORKING WITH A GBxCart RW
 _______________________HOW DOES IT WORKS_______________________
 This program uses the hardware of GBxCart RW 
 to automatically detect your cartridge, get the rom inside, get the save inside your cartridge
-and run the emulator with the imported game and the same program automatically uploads your pc save
+and run the emulator with the imported game. 
+And then the same program automatically uploads your pc save
 to the cartridge when closing the emulator.
-YES and all this with only executing the autodetectCartridgeAndLoadGameToEmulator.exe.
+and YES all this with only executing the autodetectCartridgeAndLoadGameToEmulator.exe.
 _______________________HOW DOES IT WORKS_______________________
 
 _______________________HOW TO USE IT_______________________
