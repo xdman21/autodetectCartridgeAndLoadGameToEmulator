@@ -49,5 +49,7 @@ _______________________TROUBLESHOOTING_______________________
 2. the emulator detects the game name as an extension and it doesn't start: that's a tiny issue with the blank spaces or " ", in this case the game have been correctly imported but you should load it manually by opening the emulator and loading the imported rom.
 _______________________TROUBLESHOOTING_______________________
 
+DEMO LINK: https://www.youtube.com/watch?v=ZWk0kCqC5aw
+
 
 
